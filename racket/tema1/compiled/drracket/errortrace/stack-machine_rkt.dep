@@ -1,0 +1,1 @@
+("7.2" racket ("80e51194624ff08ff7040b541949d78a76540eb3" . "bbcbcea04d4fc6e3136840def9674e5cea375e64") #"D:\\upb\\pp\\tema1\\opcodes.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
